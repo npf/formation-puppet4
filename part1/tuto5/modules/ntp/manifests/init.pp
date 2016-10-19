@@ -1,6 +1,6 @@
-class npt {
+class ntp {
   package {
     'ntp':
-       insure => 'installed';
+      ensure => installed;
   }
 }
