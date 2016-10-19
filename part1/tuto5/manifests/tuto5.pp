@@ -1,0 +1,4 @@
+class {
+  'collectd':
+    www => true;
+}
